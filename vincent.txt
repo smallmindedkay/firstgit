@@ -34,38 +34,38 @@ mkdir vincent
 ls
 git init
 cat > vincent.txt
-   43  sit status
-   44  gsit status
-   45  git status
-   46  git add .
-   47  git status
-   48  git commit -m "my first commit"
-   49  git status
-   50  git log
-   51  git show 68c5821
-   52  git status
-   53  git remote add origin https://github.com/smallmindedkay/firstgit.git
-   54  git push -u origin master
-   55  ls
-   56  sudo shutdown -h now
-   57  history
-   58  clear
-   59  mkdir developer3
-   60  cd developer3
-   61  git init
-   62  git remote add origin https://github.com/developer-shailendra/test-1.git
-   63  git status
-   64  git pull origin master
-   65  git log
-   66  cat > developer123
-   67  git status
-   68  git log
-   69  git add .
-   70  git log
-   71  git status
-   72  git commit -m "commit as the third developer"
-   73  git status
-   74  git log
-   75  git show bf9247c6549
-   76  git push origin master
-   77  git push origin master
+sit status
+gsit status
+git status
+git add .
+git status
+git commit -m "my first commit"
+git status
+git log
+git show 68c5821
+git status
+git remote add origin https://github.com/smallmindedkay/firstgit.git
+git push -u origin master
+ls
+sudo shutdown -h now
+history
+clear
+mkdir developer3
+cd developer3
+git init
+git remote add origin https://github.com/developer-shailendra/test-1.git
+git status
+git pull origin master
+git log
+cat > developer123
+git status
+git log
+git add .
+git log
+git status
+git commit -m "commit as the third developer"
+git status
+git log
+git show bf9247c6549
+git push origin master
+git push origin master
