@@ -69,3 +69,6 @@ git log
 git show bf9247c6549
 git push origin master
 git push origin master
+
+git status
+git commit -a -m "feature branch feature added"
